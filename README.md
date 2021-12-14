@@ -1,6 +1,6 @@
-# Web-Design-Completo
+# Web Design Completo - Origamid
 
-Desenvolvido durante o curso da Origamid de Web Designer Completo
+Desenvolvido durante o curso da Origamid de Web Design Completo
 
 🚀 Começando Essas instruções permitirão que você obtenha a funcionalidade completa do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 

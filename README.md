@@ -1,12 +1,6 @@
 # Web Design Completo - Origamid
 
-Desenvolvido durante o curso da Origamid de Web Design Completo
-
-🚀 Começando Essas instruções permitirão que você obtenha a funcionalidade completa do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-⚙️ Executando o projeto
-
-Abra-o localmente
+🚀 Desenvolvido durante o curso da Origamid de Web Design Completo
 
 🛠️ Construído com
 HTML5, CSS3, JS e PHP

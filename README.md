@@ -3,7 +3,9 @@
 🚀 Desenvolvido durante o curso da Origamid de Web Design Completo
 
 🛠️ Construído com
+
 HTML5, CSS3, JS e PHP
 
-✒️ Autor -
+✒️ Autor 
+
 Pedro Henrique Moreno

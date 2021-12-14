@@ -5,12 +5,10 @@
 
 🛠️ Construído com
 
-
 HTML5, CSS3, JS e PHP
 
 
 ✒️ Autor 
-
 
 Pedro Henrique Moreno
 

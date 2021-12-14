@@ -1,4 +1,4 @@
-# Web Design Completo - Origamid
+# Web Design Completo - Origamid :wolf:
 
 🚀 Desenvolvido durante o curso da Origamid de Web Design Completo
 

@@ -5,8 +5,7 @@
 
 🛠️ Construído com
 
-• HTML5, CSS3, JS e PHP
-
+• HTML5, CSS3 e JS
 
 ✒️ Autor 
 
